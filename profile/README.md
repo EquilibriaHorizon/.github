@@ -1,4 +1,4 @@
-# XEQM Labs
+# XEQM Labs - EXIOM Platform
 
 **Privacy-preserving Layer 1. Pure Proof-of-Stake. Built for developers.**
 
@@ -12,8 +12,8 @@ XEQM Labs is a privacy-focused blockchain network and developer platform. The ne
 |---|---|
 | 📄 Whitepaper | [github.com/XEQMLabs/whitepaper](https://github.com/XEQMLabs/whitepaper) |
 | 🌐 Website | [xeqmlabs.com](https://xeqmlabs.com) |
-| 💬 Telegram | [t.me/XEQCommunity](https://t.me/XEQCommunity) |
-| 🐦 Twitter / X | [@XEQMLabs](https://x.com/XEQMLabs) |
+| 💬 Telegram | [t.me/XEQCommunity](https://t.me/ExiomXEQM) |
+| 🐦 Twitter / X | [@XEQMLabs](https://x.com/ExiomXEQM) |
 | ✉️ Contact | [wayland@xeqmlabs.com](mailto:wayland@xeqmlabs.com) |
 
 ---
