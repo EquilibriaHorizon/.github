@@ -12,8 +12,8 @@ XEQM Labs is a privacy-focused blockchain network and developer platform. The ne
 |---|---|
 | 📄 Whitepaper | [github.com/XEQMLabs/whitepaper](https://github.com/XEQMLabs/whitepaper) |
 | 🌐 Website | [xeqmlabs.com](https://xeqmlabs.com) |
-| 💬 Telegram | [t.me/XEQCommunity](https://t.me/ExiomXEQM) |
-| 🐦 Twitter / X | [@XEQMLabs](https://x.com/ExiomXEQM) |
+| 💬 Telegram | [t.me/ExiomXEQM](https://t.me/ExiomXEQM) |
+| 🐦 Twitter / X | [@ExiomXEQM](https://x.com/ExiomXEQM) |
 | ✉️ Contact | [wayland@xeqmlabs.com](mailto:wayland@xeqmlabs.com) |
 
 ---
